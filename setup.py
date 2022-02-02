@@ -6,10 +6,11 @@ setup(
     author="Dmitry Kalinin",
     packages=["graphene_pagination"],
     url="https://github.com/null-none/graphene-pagination",
-    install_requires=[
+    keywods=[        
         "graphene",
         "django",
         "pagination"
         "graphene pagination"
     ],
+    install_requires=[],
 )
