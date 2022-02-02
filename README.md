@@ -10,8 +10,8 @@
 
 **DjangoPaginationConnectionField**
 
-- 1. It allows paginate the query using offset-based method and returns the `totalCount` field that indicates the total query results.
-- 2. Also, it is possible to order list using the pattern `input,enum` just sendind `ordering` field.
+- It allows paginate the query using offset-based method and returns the `totalCount` field that indicates the total query results.
+- Also, it is possible to order list using the pattern `input,enum` just sendind `ordering` field.
 
 ## Example
 
