@@ -4,7 +4,7 @@ setup(
     name="graphene-pagination",
     version="1.0.0",
     author="Dmitry Kalinin",
-    packages=["graphene-pagination"],
+    packages=["graphene_pagination"],
     url="https://github.com/null-none/graphene-pagination",
     install_requires=[
         "graphene",
