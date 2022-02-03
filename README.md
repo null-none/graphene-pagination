@@ -44,7 +44,7 @@ class CustomerType(DjangoObjectType):
 #### 3 - Schema (schema.py)
 
 ```python
-from graphene_django_pagination import DjangoPaginationConnectionField
+from graphene_pagination import DjangoPaginationConnectionField
 from graphene import ObjectType
 from .types import CustomerType
 from .models import Customer
